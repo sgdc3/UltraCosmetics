@@ -1,9 +1,9 @@
 name: UltraCosmetics
 author: iSach
-version: Beta 1.6.2
+version: ${project.version}
 load: POSTWORLD
 main: me.isach.ultracosmetics.Core
-softdepend: [LibsDisguises, NoteBlockAPI, Vault]
+softdepend: [LibsDisguises, MidiPlayer, Vault]
 commands:
   canelacosmetics:
     aliases: [uc, cosmetics]

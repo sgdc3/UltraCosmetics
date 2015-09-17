@@ -3,7 +3,6 @@ package me.isach.ultracosmetics.cosmetics.gadgets;
 import me.isach.ultracosmetics.Core;
 import me.isach.ultracosmetics.util.MathUtils;
 import me.isach.ultracosmetics.util.UtilParticles;
-import org.bukkit.Bukkit;
 import org.bukkit.Effect;
 import org.bukkit.Material;
 import org.bukkit.Sound;

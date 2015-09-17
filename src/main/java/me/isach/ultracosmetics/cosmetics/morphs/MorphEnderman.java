@@ -2,26 +2,16 @@ package me.isach.ultracosmetics.cosmetics.morphs;
 
 import me.isach.ultracosmetics.Core;
 import me.isach.ultracosmetics.config.MessageManager;
-import me.isach.ultracosmetics.util.MathUtils;
 import me.libraryaddict.disguise.DisguiseAPI;
 import me.libraryaddict.disguise.disguisetypes.DisguiseType;
-import net.minecraft.server.v1_8_R3.PathfinderGoalSelector;
 import org.bukkit.*;
 import org.bukkit.block.Block;
-import org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity;
-import org.bukkit.craftbukkit.v1_8_R3.util.UnsafeList;
-import org.bukkit.entity.Entity;
 import org.bukkit.entity.Firework;
-import org.bukkit.entity.NPC;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.HandlerList;
-import org.bukkit.event.entity.EntityDamageByEntityEvent;
 import org.bukkit.event.entity.EntityDamageEvent;
 import org.bukkit.event.player.PlayerToggleFlightEvent;
 import org.bukkit.inventory.meta.FireworkMeta;
-import org.bukkit.util.Vector;
-
-import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Set;
