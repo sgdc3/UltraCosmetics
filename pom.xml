@@ -5,7 +5,7 @@
 
 	<groupId>me.isach</groupId>
 	<artifactId>ultracosmetics</artifactId>
-	<version>0.1.1</version>
+	<version>1.7.0</version>
 
 	<name>UltraCosmetics</name>
 	<description>UltraCosmetics is a Spigot 1.8.8 plugin which adds cool cosmetics for hub servers.</description>
